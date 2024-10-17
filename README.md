@@ -1,4 +1,4 @@
-# Predicción de Abandono de Clientes en Beta Bank
+# Predicción de Abandono de Clientes
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-lightgrey)
 ![Estado](https://img.shields.io/badge/Estado-Terminado-brightgreen)
 
